@@ -235,4 +235,40 @@ nav ul li a{
 .contact-right form{
     width: 100%;
 }
+
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background-color: black;
+    padding: 15px;
+    margin: 5px 0;
+    color: white;
+    font-size: 18px;
+    border: 6px;
+
+
+}
+.contact__btn.contact__btn--2{
+    display: inline-block;
+    background-color: maroon;
+    font-size: 18px;
+
+}
+
+.contact__btn--2:hover{
+    background-color: #20E700;
+    cursor: pointer;
+}
+
+footer{
+    height: 15vh;
+    width: 100%;
+    text-align: center;
+    padding: 3% 0;
+    background-color: #d9d9d9;
+    font-weight: 300;
+}
+
 /*******************************FOOTER SECTION *******************************/
+
